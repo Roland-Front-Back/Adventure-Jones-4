@@ -64,16 +64,32 @@
 📁 Adventure-Jones-4/
 │
 ├── 📁 src/
-│ ├── 📁 entities/ # Player, NPCs, Enemies, Projectiles
-│ ├── 📁 weapons/ # Weapon classes (Pistol, Whip, Bow, etc.)
-│ ├── 📁 maps/ # Level loading, transitions, tilesets
-│ ├── 📁 ui/ # Dialog boxes, health bars, overlays
-│ ├── 📁 audio/ # Music and sound effect managers
-│ ├── 📁 main/ # Main entry point and core loop
-│ └── 📁 util/ # Helpers, game timer, collision logic
+│ ├── 📁 AI/ # Find path, path positioning
+│ ├── 📁 entity/ # Entity, side characters, player, projectile
+│ ├── 📁 main/ # Main, ui, bg, eventhandler, collision logic, etc
+│ ├── 📁 monster/ # Boss, monsters, enemies
+│ ├── 📁 object/ # Weapons, ammo, armor, artifact
+│ ├── 📁 tile/ # Map, Tile, TileManager
+│ └── 📁 tile_interactive/ # InteractiveTile, Barrels, Bushes
 │
-├── 📁 assets/ # Sprites, audio files, maps, fonts
+├── 📁 res/
+│ ├── 📁 BG/ # BG pictures
+│ ├── 📁 font/ # Fonts kiddy, river adventure, wooden log
+│ ├── 📁 maps/ # Maps, final
+│ ├── 📁 monster/ # Boss, monsters, enemies
+│ ├── 📁 npc/ # Npc, oldman sprites
+│ ├── 📁 objects/ # Object, objects sprites
+│ └── 📁 player/ # MainPlayer, player sprites
+│ ├── 📁 projectiles/ # Projectiles, arrows, bullets, flame, Arm
+│ ├── 📁 Sound/ # Sound, bg music, sound fx
+│ └── 📁 tile_interactive/ # InteractiveTile, Barrels, Bushes
+│ └── 📁 tiles/ # Map tiles. dessert, forest, grass, etc
 ├── 📁 bin/ # Compiled class files
+├── 📁 assets/ # banner
+├── .classpath
+├── .project
+├── config.txt
+├── LICENSE
 ├── README.md
 └── .gitignore
 ```

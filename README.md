@@ -194,7 +194,7 @@ Acknowledgments
 
 ## Credits
 
-- Programming: Group 4
+- Programming: Computer Science Students - Group 4
 
 - Concept & Design: Retro game inspirations
 

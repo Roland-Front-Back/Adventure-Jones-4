@@ -62,6 +62,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Credits](#credits)
 
 ---
 
@@ -205,7 +206,7 @@ Acknowledgments
 
 ---
 
-## 🧠 Credits
+## Credits
 
 - Programming: Group 4
 

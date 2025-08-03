@@ -2,38 +2,8 @@
 
 <!-- HEADER STYLE: WILD WEST BANNER -->
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-	<defs>
-		 <linearGradient id="desert" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="#33170d" />
-            <stop offset="50%" stop-color="#b13d1f" />
-            <stop offset="100%" stop-color="#e89c4a" />
-        </linearGradient>
-		<filter id="shadow">
-            <feDropShadow dx="2" dy="2" stdDeviation="4" flood-opacity="0.6" />
-        </filter>
-	</defs>
-     <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#desert)" rx="10" />
-    <!-- Horizon silhouette -->
-  <path d="M0,160 Q200,130 400,160 T800,160 L800,200 L0,200 Z" fill="#2e1a14" />
-      <!-- Cactus -->
-  <g transform="translate(100,100)">
-    <rect x="8" y="20" width="8" height="50" fill="#1d5b3f" />
-    <rect x="0" y="30" width="8" height="20" fill="#1d5b3f" />
-    <rect x="16" y="40" width="8" height="15" fill="#1d5b3f" />
-  </g>
-  <!-- Sun -->
-  <circle cx="700" cy="50" r="30" fill="#fdd76e" opacity="0.8" />
-	 <!-- Title -->
-  <text x="400" y="110" font-family="'Georgia', serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#fffbe6" filter="url(#shadow)">
-    Adventure Jones
-  </text>
-  <br>
-	<text x="400" y="145" font-family="'Georgia', serif" font-size="26" text-anchor="middle" fill="rgba(255,255,255,0.85)">
-    A Retro Western Quest in Java
-  </text>
-</svg>
+
+<img src="assets/banner.svg" alt="Adventure Jones Banner" width="100%" />
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/roland-front-back/Adventure-Jones-4?style=plastic&logo=opensourceinitiative&logoColor=white&color=43a047" alt="license">

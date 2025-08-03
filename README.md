@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: WILD WEST BANNER -->
 <div align="center">
 
-<img src="assets/banner.svg" alt="Adventure Jones Banner" width="100%" />
+<img src="assets/banner.png" width="100%" />
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/roland-front-back/Adventure-Jones-4?style=plastic&logo=opensourceinitiative&logoColor=white&color=43a047" alt="license">

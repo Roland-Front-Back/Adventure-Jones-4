@@ -168,15 +168,9 @@ Contributions are welcome! To contribute:
 
 ## License
 
-Distributed under the MIT License.
-See LICENSE for more information.
-Acknowledgments
+- Distributed under the MIT License.
 
-- Sound effects by <a href="https://freesound.org">freesound.org</a>
-
-- Fonts from <a href="https://www.dafont.com">dafont.com</a>
-
-- Inspired by The Legend of Zelda, Indiana Jones, and Secret of Mana
+- See [LICENSE](LICENSE) for more information.
 
 ---
 
